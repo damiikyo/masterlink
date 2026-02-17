@@ -841,7 +841,7 @@
   },
   "windows": {
     "type": "json",
-    "url": ""
+    "url": "https://raw.githubusercontent.com/Ephellon/game-store-catalog/refs/heads/main/xbox-pc/!.json"
   },
   "wswan": {
     "type": "dat",
