@@ -1,0 +1,890 @@
+{
+  "3do": {
+    "type": "dat",
+    "url": ""
+  },
+  "3ds": {
+    "type": "dat",
+    "url": ""
+  },
+  "actionmax": {
+    "type": "dat",
+    "url": ""
+  },
+  "adam": {
+    "type": "dat",
+    "url": ""
+  },
+  "advision": {
+    "type": "dat",
+    "url": ""
+  },
+  "amazon": {
+    "type": "dat",
+    "url": ""
+  },
+  "amiga500": {
+    "type": "dat",
+    "url": ""
+  },
+  "amiga1200": {
+    "type": "dat",
+    "url": ""
+  },
+  "amiga4000": {
+    "type": "dat",
+    "url": ""
+  },
+  "amigacd32": {
+    "type": "dat",
+    "url": ""
+  },
+  "amigacdtv": {
+    "type": "dat",
+    "url": ""
+  },
+  "amstradcpc": {
+    "type": "dat",
+    "url": ""
+  },
+  "apfm1000": {
+    "type": "dat",
+    "url": ""
+  },
+  "apple2": {
+    "type": "dat",
+    "url": ""
+  },
+  "apple2gs": {
+    "type": "dat",
+    "url": ""
+  },
+  "aquarius": {
+    "type": "dat",
+    "url": ""
+  },
+  "arcadia": {
+    "type": "dat",
+    "url": ""
+  },
+  "archimedes": {
+    "type": "dat",
+    "url": ""
+  },
+  "arduboy": {
+    "type": "dat",
+    "url": ""
+  },
+  "astrocade": {
+    "type": "dat",
+    "url": ""
+  },
+  "atari800": {
+    "type": "dat",
+    "url": ""
+  },
+  "atari2600": {
+    "type": "dat",
+    "url": ""
+  },
+  "atari5200": {
+    "type": "dat",
+    "url": ""
+  },
+  "atari7800": {
+    "type": "dat",
+    "url": ""
+  },
+  "atarist": {
+    "type": "dat",
+    "url": ""
+  },
+  "atom": {
+    "type": "dat",
+    "url": ""
+  },
+  "atomiswave": {
+    "type": "dat",
+    "url": ""
+  },
+  "bbcmicro": {
+    "type": "dat",
+    "url": ""
+  },
+  "boom3": {
+    "type": "dat",
+    "url": ""
+  },
+  "c20": {
+    "type": "dat",
+    "url": ""
+  },
+  "c64": {
+    "type": "dat",
+    "url": ""
+  },
+  "c128": {
+    "type": "dat",
+    "url": ""
+  },
+  "camplynx": {
+    "type": "dat",
+    "url": ""
+  },
+  "cannonball": {
+    "type": "dat",
+    "url": ""
+  },
+  "casloopy": {
+    "type": "dat",
+    "url": ""
+  },
+  "cave": {
+    "type": "dat",
+    "url": ""
+  },
+  "cavestory": {
+    "type": "dat",
+    "url": ""
+  },
+  "cdi": {
+    "type": "dat",
+    "url": ""
+  },
+  "cdogs": {
+    "type": "dat",
+    "url": ""
+  },
+  "cgenius": {
+    "type": "dat",
+    "url": ""
+  },
+  "channelf": {
+    "type": "dat",
+    "url": ""
+  },
+  "chihiro": {
+    "type": "dat",
+    "url": ""
+  },
+  "coco": {
+    "type": "dat",
+    "url": ""
+  },
+  "colecovision": {
+    "type": "dat",
+    "url": ""
+  },
+  "corsixth": {
+    "type": "dat",
+    "url": ""
+  },
+  "cplus4": {
+    "type": "dat",
+    "url": ""
+  },
+  "cps1": {
+    "type": "dat",
+    "url": ""
+  },
+  "cps2": {
+    "type": "dat",
+    "url": ""
+  },
+  "cps3": {
+    "type": "dat",
+    "url": ""
+  },
+  "crvision": {
+    "type": "dat",
+    "url": ""
+  },
+  "daphne": {
+    "type": "dat",
+    "url": ""
+  },
+  "devilutionx": {
+    "type": "dat",
+    "url": ""
+  },
+  "dice": {
+    "type": "dat",
+    "url": ""
+  },
+  "dinothawr": {
+    "type": "dat",
+    "url": ""
+  },
+  "doom3": {
+    "type": "dat",
+    "url": ""
+  },
+  "dos": {
+    "type": "dat",
+    "url": ""
+  },
+  "dragon32": {
+    "type": "dat",
+    "url": ""
+  },
+  "dreamcast": {
+    "type": "dat",
+    "url": ""
+  },
+  "eagames": {
+    "type": "dat",
+    "url": ""
+  },
+  "easyrpg": {
+    "type": "dat",
+    "url": ""
+  },
+  "ecwolf": {
+    "type": "dat",
+    "url": ""
+  },
+  "eduke32": {
+    "type": "dat",
+    "url": ""
+  },
+  "electron": {
+    "type": "dat",
+    "url": ""
+  },
+  "epic": {
+    "type": "dat",
+    "url": ""
+  },
+  "fbneo": {
+    "type": "dat",
+    "url": ""
+  },
+  "fds": {
+    "type": "dat",
+    "url": ""
+  },
+  "flash": {
+    "type": "dat",
+    "url": ""
+  },
+  "fm7": {
+    "type": "dat",
+    "url": ""
+  },
+  "fmtowns": {
+    "type": "dat",
+    "url": ""
+  },
+  "fpinball": {
+    "type": "dat",
+    "url": ""
+  },
+  "gaelco": {
+    "type": "dat",
+    "url": ""
+  },
+  "gamate": {
+    "type": "dat",
+    "url": ""
+  },
+  "gameandwatch": {
+    "type": "dat",
+    "url": ""
+  },
+  "gamecom": {
+    "type": "dat",
+    "url": ""
+  },
+  "gamecube": {
+    "type": "dat",
+    "url": ""
+  },
+  "gamegear": {
+    "type": "dat",
+    "url": ""
+  },
+  "gamepock": {
+    "type": "dat",
+    "url": ""
+  },
+  "gb": {
+    "type": "dat",
+    "url": ""
+  },
+  "gb2players": {
+    "type": "dat",
+    "url": ""
+  },
+  "gba": {
+    "type": "dat",
+    "url": ""
+  },
+  "gba2players": {
+    "type": "dat",
+    "url": ""
+  },
+  "gbc": {
+    "type": "dat",
+    "url": ""
+  },
+  "gbc2players": {
+    "type": "dat",
+    "url": ""
+  },
+  "gb-msu": {
+    "type": "dat",
+    "url": ""
+  },
+  "gemrb": {
+    "type": "dat",
+    "url": ""
+  },
+  "gmaster": {
+    "type": "dat",
+    "url": ""
+  },
+  "gog": {
+    "type": "dat",
+    "url": ""
+  },
+  "gp32": {
+    "type": "dat",
+    "url": ""
+  },
+  "gx4000": {
+    "type": "dat",
+    "url": ""
+  },
+  "gzdoom": {
+    "type": "dat",
+    "url": ""
+  },
+  "hbmame": {
+    "type": "dat",
+    "url": ""
+  },
+  "hikaru": {
+    "type": "dat",
+    "url": ""
+  },
+  "ikemen": {
+    "type": "dat",
+    "url": ""
+  },
+  "intellivision": {
+    "type": "dat",
+    "url": ""
+  },
+  "j2me": {
+    "type": "dat",
+    "url": ""
+  },
+  "jaguar": {
+    "type": "dat",
+    "url": ""
+  },
+  "jaguarcd": {
+    "type": "dat",
+    "url": ""
+  },
+  "karaoke": {
+    "type": "dat",
+    "url": ""
+  },
+  "lcdgames": {
+    "type": "dat",
+    "url": ""
+  },
+  "love": {
+    "type": "dat",
+    "url": ""
+  },
+  "lowresnx": {
+    "type": "dat",
+    "url": ""
+  },
+  "lutro": {
+    "type": "dat",
+    "url": ""
+  },
+  "lynx": {
+    "type": "dat",
+    "url": ""
+  },
+  "mame": {
+    "type": "dat",
+    "url": "https://raw.githubusercontent.com/AntoPISA/MAME_Dats/refs/heads/main/MAME_dat/MAME_ROMs.dat"
+  },
+  "mastersystem": {
+    "type": "dat",
+    "url": ""
+  },
+  "megacd": {
+    "type": "dat",
+    "url": ""
+  },
+  "megadrive": {
+    "type": "dat",
+    "url": ""
+  },
+  "megadrive-msu": {
+    "type": "dat",
+    "url": ""
+  },
+  "megaduck": {
+    "type": "dat",
+    "url": ""
+  },
+  "model2": {
+    "type": "dat",
+    "url": ""
+  },
+  "model3": {
+    "type": "dat",
+    "url": ""
+  },
+  "msx1": {
+    "type": "dat",
+    "url": ""
+  },
+  "msx2": {
+    "type": "dat",
+    "url": ""
+  },
+  "msx2+": {
+    "type": "dat",
+    "url": ""
+  },
+  "msxturbor": {
+    "type": "dat",
+    "url": ""
+  },
+  "mugen": {
+    "type": "dat",
+    "url": ""
+  },
+  "multivision": {
+    "type": "dat",
+    "url": ""
+  },
+  "n64": {
+    "type": "dat",
+    "url": ""
+  },
+  "n64dd": {
+    "type": "dat",
+    "url": ""
+  },
+  "namco2x6": {
+    "type": "dat",
+    "url": ""
+  },
+  "naomi": {
+    "type": "dat",
+    "url": ""
+  },
+  "naomi2": {
+    "type": "dat",
+    "url": ""
+  },
+  "nds": {
+    "type": "dat",
+    "url": ""
+  },
+  "neogeo": {
+    "type": "dat",
+    "url": ""
+  },
+  "neogeo64": {
+    "type": "dat",
+    "url": ""
+  },
+  "neogeocd": {
+    "type": "dat",
+    "url": ""
+  },
+  "nes": {
+    "type": "dat",
+    "url": ""
+  },
+  "ngage": {
+    "type": "dat",
+    "url": ""
+  },
+  "ngp": {
+    "type": "dat",
+    "url": ""
+  },
+  "ngpc": {
+    "type": "dat",
+    "url": ""
+  },
+  "o2em": {
+    "type": "dat",
+    "url": ""
+  },
+  "openbor": {
+    "type": "dat",
+    "url": ""
+  },
+  "opengoal": {
+    "type": "dat",
+    "url": ""
+  },
+  "openjazz": {
+    "type": "dat",
+    "url": ""
+  },
+  "openlara": {
+    "type": "dat",
+    "url": ""
+  },
+  "oricatmos": {
+    "type": "dat",
+    "url": ""
+  },
+  "p2000t": {
+    "type": "dat",
+    "url": ""
+  },
+  "pc88": {
+    "type": "dat",
+    "url": ""
+  },
+  "pc98": {
+    "type": "dat",
+    "url": ""
+  },
+  "pcengine": {
+    "type": "dat",
+    "url": ""
+  },
+  "pcenginecd": {
+    "type": "dat",
+    "url": ""
+  },
+  "pcfx": {
+    "type": "dat",
+    "url": ""
+  },
+  "pdark": {
+    "type": "dat",
+    "url": ""
+  },
+  "pegasus": {
+    "type": "dat",
+    "url": ""
+  },
+  "pet": {
+    "type": "dat",
+    "url": ""
+  },
+  "pico8": {
+    "type": "dat",
+    "url": ""
+  },
+  "pinballfx": {
+    "type": "dat",
+    "url": ""
+  },
+  "pinballfx2": {
+    "type": "dat",
+    "url": ""
+  },
+  "pinballfx3": {
+    "type": "dat",
+    "url": ""
+  },
+  "pinballm": {
+    "type": "dat",
+    "url": ""
+  },
+  "pokemini": {
+    "type": "dat",
+    "url": ""
+  },
+  "ports": {
+    "type": "dat",
+    "url": ""
+  },
+  "prboom": {
+    "type": "dat",
+    "url": ""
+  },
+  "ps2": {
+    "type": "dat",
+    "url": ""
+  },
+  "ps3": {
+    "type": "dat",
+    "url": ""
+  },
+  "ps4": {
+    "type": "dat",
+    "url": ""
+  },
+  "psp": {
+    "type": "dat",
+    "url": ""
+  },
+  "psvita": {
+    "type": "dat",
+    "url": ""
+  },
+  "psx": {
+    "type": "dat",
+    "url": ""
+  },
+  "pv1000": {
+    "type": "dat",
+    "url": ""
+  },
+  "raze": {
+    "type": "dat",
+    "url": ""
+  },
+  "reminiscence": {
+    "type": "dat",
+    "url": ""
+  },
+  "samcoupe": {
+    "type": "dat",
+    "url": ""
+  },
+  "satellaview": {
+    "type": "dat",
+    "url": ""
+  },
+  "saturn": {
+    "type": "dat",
+    "url": ""
+  },
+  "scummvm": {
+    "type": "dat",
+    "url": ""
+  },
+  "scv": {
+    "type": "dat",
+    "url": ""
+  },
+  "sega32x": {
+    "type": "dat",
+    "url": ""
+  },
+  "segacd": {
+    "type": "dat",
+    "url": ""
+  },
+  "segastv": {
+    "type": "dat",
+    "url": ""
+  },
+  "sg1000": {
+    "type": "dat",
+    "url": ""
+  },
+  "sgb": {
+    "type": "dat",
+    "url": ""
+  },
+  "singe": {
+    "type": "dat",
+    "url": ""
+  },
+  "snes": {
+    "type": "dat",
+    "url": ""
+  },
+  "snes-msu": {
+    "type": "dat",
+    "url": ""
+  },
+  "soh": {
+    "type": "dat",
+    "url": ""
+  },
+  "solarus": {
+    "type": "dat",
+    "url": ""
+  },
+  "sonic3air": {
+    "type": "dat",
+    "url": ""
+  },
+  "sonicmania": {
+    "type": "dat",
+    "url": ""
+  },
+  "sonicretro": {
+    "type": "dat",
+    "url": ""
+  },
+  "spectravideo": {
+    "type": "dat",
+    "url": ""
+  },
+  "starship": {
+    "type": "dat",
+    "url": ""
+  },
+  "steam": {
+    "type": "dat",
+    "url": ""
+  },
+  "sufami": {
+    "type": "dat",
+    "url": ""
+  },
+  "superbroswar": {
+    "type": "dat",
+    "url": ""
+  },
+  "supergrafx": {
+    "type": "dat",
+    "url": ""
+  },
+  "supervision": {
+    "type": "dat",
+    "url": ""
+  },
+  "supracan": {
+    "type": "dat",
+    "url": ""
+  },
+  "switch": {
+    "type": "dat",
+    "url": ""
+  },
+  "teknoparrot": {
+    "type": "dat",
+    "url": ""
+  },
+  "theforceengine": {
+    "type": "dat",
+    "url": ""
+  },
+  "thomson": {
+    "type": "dat",
+    "url": ""
+  },
+  "ti99": {
+    "type": "dat",
+    "url": ""
+  },
+  "tic80": {
+    "type": "dat",
+    "url": ""
+  },
+  "triforce": {
+    "type": "dat",
+    "url": ""
+  },
+  "tutor": {
+    "type": "dat",
+    "url": ""
+  },
+  "tvgames": {
+    "type": "dat",
+    "url": ""
+  },
+  "tyrquake": {
+    "type": "dat",
+    "url": ""
+  },
+  "uzebox": {
+    "type": "dat",
+    "url": ""
+  },
+  "vc4000": {
+    "type": "dat",
+    "url": ""
+  },
+  "vectrex": {
+    "type": "dat",
+    "url": ""
+  },
+  "vg5k": {
+    "type": "dat",
+    "url": ""
+  },
+  "vircon32": {
+    "type": "dat",
+    "url": ""
+  },
+  "virtualboy": {
+    "type": "dat",
+    "url": ""
+  },
+  "vitaquake2": {
+    "type": "dat",
+    "url": ""
+  },
+  "vpinball": {
+    "type": "dat",
+    "url": ""
+  },
+  "vsmile": {
+    "type": "dat",
+    "url": ""
+  },
+  "wasm4": {
+    "type": "dat",
+    "url": ""
+  },
+  "wii": {
+    "type": "dat",
+    "url": ""
+  },
+  "wiiu": {
+    "type": "dat",
+    "url": ""
+  },
+  "windows": {
+    "type": "json",
+    "url": ""
+  },
+  "wswan": {
+    "type": "dat",
+    "url": ""
+  },
+  "wswanc": {
+    "type": "dat",
+    "url": ""
+  },
+  "x1": {
+    "type": "dat",
+    "url": ""
+  },
+  "x68000": {
+    "type": "dat",
+    "url": ""
+  },
+  "xbox": {
+    "type": "dat",
+    "url": ""
+  },
+  "xbox360": {
+    "type": "dat",
+    "url": ""
+  },
+  "xegs": {
+    "type": "dat",
+    "url": ""
+  },
+  "zaccariapinball": {
+    "type": "dat",
+    "url": ""
+  },
+  "zinc": {
+    "type": "dat",
+    "url": ""
+  },
+  "zx81": {
+    "type": "dat",
+    "url": ""
+  },
+  "zxspectrum": {
+    "type": "dat",
+    "url": ""
+  }
+}
