@@ -729,7 +729,7 @@
   },
   "steam": {
     "type": "dat",
-    "url": ""
+    "url": "https://raw.githubusercontent.com/Ephellon/game-store-catalog/refs/heads/main/steam/!.json"
   },
   "sufami": {
     "type": "dat",
